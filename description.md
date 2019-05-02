@@ -1,18 +1,24 @@
 # Acerca de mí:
-- Imágen
-- Nombre Completo
-- Email
-- Usuario de Github
+
+- Nombre Completo: Alan Gonzalez Huitron
+- Email: alanghshadow@gmail.com
+- Usuario de Github: AlanGHuitron
 
 # Formación Académica
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
+Educacion preparatoria en Colegio de Ciencias y Humanidades plantel Oriente 
+Licenciatura en Informatica en la facultad de Contaduria y administración 
 # Experiencia Profesional
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
+Becario en Ingenieria del software dentro de la sublinea de aseguramiento de la calidad
 # Idiomas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
+Español: Nativo
+Inglés:70% 
+
 # Habilidades Técnicas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent efficitur, magna et dictum convallis, augue tortor faucibus purus, ut ultrices velit nibh sit amet leo. Etiam scelerisque tellus urna. Nulla finibus sed mauris eu scelerisque. Nulla tempus, turpis vitae luctus efficitur, sapien lectus lacinia ex, sed placerat risus tellus quis massa. Etiam facilisis auctor quam, a ullamcorper urna mollis nec. Morbi a facilisis leo, et tincidunt massa. Duis eleifend a mi ac lacinia. Phasellus rhoncus leo vitae metus efficitur imperdiet. Donec tristique ipsum nec sapien facilisis, nec lacinia mi blandit. Nulla ut vulputate purus. Quisque lectus arcu, porttitor vel elementum finibus, mattis at neque. Curabitur hendrerit tellus eros, non rhoncus mauris consequat eget. Mauris pretium non neque in maximus.
+Programación Orientada a Objetos - Java
+Base de Datos - diseño, desarrollo
+Aplicaciones de testing - Oracle Oats y Jmeter 
+Programación estructurada- C++ 
+Programacion Basica en Swift 
